@@ -8,7 +8,7 @@
 
 A clean, responsive movie search app built with vanilla HTML, CSS, and JavaScript. Search millions of movies, explore by genre, view detailed info, and save your favorites — all in a single file with no frameworks or build tools.
 
-**🔗 Live Demo:** [yourusername.github.io/movie-search-app](https://yourusername.github.io/movie-search-app)
+**🔗 Live Demo:** [programedbyhassan.github.io/movie-search-app](https://programedbyhassan.github.io/movie-search-app)
 
 ---
 
